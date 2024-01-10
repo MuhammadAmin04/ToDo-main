@@ -1,11 +1,4 @@
-# lesson - 4 in React.js
+Todo App with Jsonplaceholder
 
-### mavzular:
-
-1. useRef 
-2. useState va spread , rest  orqali TODO APP.
-3. Takrorlash
-
-
-
+https://dancing-figolla-962a92.netlify.app/
 
